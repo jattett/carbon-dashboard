@@ -106,13 +106,13 @@
 
 4. **브라우저에서 확인**
    ```
-   http://localhost:3000
+   http://localhost:3001
    ```
 
 ### 프로덕션 빌드
 ```bash
 npm run build
-npm start
+npm run dev
 ```
 
 ## 프로젝트 구조
